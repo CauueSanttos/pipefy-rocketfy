@@ -24,7 +24,7 @@ Rocketfy
 ## Features
 [//]: # (Add the features of your project here:)
 
-- ⚛️ **React Js** — A JavaScript library for building user interfaces
+- ⚛️ **ReactJS** — A JavaScript library for building user interfaces
 
 ## Getting started
 
